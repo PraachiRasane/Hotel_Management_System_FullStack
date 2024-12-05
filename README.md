@@ -1,1 +1,1 @@
-# Hotel_Management_System_FullStack
+# hotel-management_fullStack
